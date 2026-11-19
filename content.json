@@ -188,7 +188,7 @@
       "page": "projects",
       "selector": ".cards .card:nth-child(7) > p",
       "label": "Card 7 — description",
-      "value": "Applied measurement methods, experimental design and statistical approaches to evaluate and optimise engineering surfaces across manufacturing contexts."
+      "value": "Doctoral research in Manufacturing Technology focused on understanding, characterising and improving the surface properties of engineered products. The work combined surface metrology, experimental design, statistical analysis and machine-learning methods to investigate how manufacturing conditions influence surface quality. Research covered processes including injection moulding and additive manufacturing, with methods developed to support more consistent measurement, quality evaluation and process optimisation. The findings contributed to practical surface assessment approaches across multiple industrial manufacturing applications."
     },
     {
       "id": "projects-25",
