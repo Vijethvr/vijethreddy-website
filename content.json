@@ -172,149 +172,149 @@
     {
       "id": "projects-43",
       "page": "projects",
-      "selector": ".cards .card:nth-child(1) .tag",
-      "label": "Card 1 — category",
+      "selector": ".cards .card:nth-child(7) .tag",
+      "label": "Card 7 — category",
       "value": "Doctoral research"
     },
     {
       "id": "projects-44",
       "page": "projects",
-      "selector": ".cards .card:nth-child(1) h3",
-      "label": "Card 1 — title",
+      "selector": ".cards .card:nth-child(7) h3",
+      "label": "Card 7 — title",
       "value": "Characterisation and Optimisation of Engineering Surfaces"
     },
     {
       "id": "projects-45",
       "page": "projects",
-      "selector": ".cards .card:nth-child(1) > p",
-      "label": "Card 1 — description",
+      "selector": ".cards .card:nth-child(7) > p",
+      "label": "Card 7 — description",
       "value": "Applied measurement methods, experimental design and statistical approaches to evaluate and optimise engineering surfaces across manufacturing contexts."
     },
     {
       "id": "projects-25",
       "page": "projects",
-      "selector": ".cards .card:nth-child(2) .tag",
-      "label": "Card 2 — category",
+      "selector": ".cards .card:nth-child(1) .tag",
+      "label": "Card 1 — category",
       "value": "Automotive · Injection Moulding Research"
     },
     {
       "id": "projects-26",
       "page": "projects",
-      "selector": ".cards .card:nth-child(2) h3",
-      "label": "Card 2 — title",
+      "selector": ".cards .card:nth-child(1) h3",
+      "label": "Card 1 — title",
       "value": "Surface Quality Assessment of Textured Automotive Polymer Components"
     },
     {
       "id": "projects-27",
       "page": "projects",
-      "selector": ".cards .card:nth-child(2) > p",
-      "label": "Card 2 — description",
+      "selector": ".cards .card:nth-child(1) > p",
+      "label": "Card 1 — description",
       "value": "Research on surface texture characterisation and quality assessment of injection-moulded automotive interior polymers. Work investigated surface measurement methods, effects of manufacturing parameters. Related funding include Vinnova backed Robust Injection Moulding of Automotive Components and Robust Texture Design for Circular Polymers- ROPY."
     },
     {
       "id": "projects-34",
       "page": "projects",
-      "selector": ".cards .card:nth-child(3) .tag",
-      "label": "Card 3 — category",
+      "selector": ".cards .card:nth-child(2) .tag",
+      "label": "Card 2 — category",
       "value": "Additive Manufacturing · DiSAM"
     },
     {
       "id": "projects-35",
       "page": "projects",
-      "selector": ".cards .card:nth-child(3) h3",
-      "label": "Card 3 — title",
+      "selector": ".cards .card:nth-child(2) h3",
+      "label": "Card 2 — title",
       "value": "Surface Characterisation and Post-Processing in Additive Manufacturing"
     },
     {
       "id": "projects-36",
       "page": "projects",
-      "selector": ".cards .card:nth-child(3) > p",
-      "label": "Card 3 — description",
+      "selector": ".cards .card:nth-child(2) > p",
+      "label": "Card 2 — description",
       "value": "Research on surface texture, manufacturing parameters and post-processing of additively manufactured components. The FDM surface texture study acknowledged support from VINNOVA and Produktion2030 through DiSAM, as well as the Knowledge Foundation's Business Model Innovation project."
     },
     {
       "id": "projects-37",
       "page": "projects",
-      "selector": ".cards .card:nth-child(4) .tag",
-      "label": "Card 4 — category",
+      "selector": ".cards .card:nth-child(3) .tag",
+      "label": "Card 3 — category",
       "value": "Dental Applications · Research Collaboration"
     },
     {
       "id": "projects-38",
       "page": "projects",
-      "selector": ".cards .card:nth-child(4) h3",
-      "label": "Card 4 — title",
+      "selector": ".cards .card:nth-child(3) h3",
+      "label": "Card 3 — title",
       "value": "Quality Assurance of 3D-Printed Biocompatible Materials for Dental Applications"
     },
     {
       "id": "projects-39",
       "page": "projects",
-      "selector": ".cards .card:nth-child(4) > p",
-      "label": "Card 4 — description",
+      "selector": ".cards .card:nth-child(3) > p",
+      "label": "Card 3 — description",
       "value": "A joint research effort between Halmstad University researchers and maxillofacial doctors at Region Halland hospital in Halmstad. The work assessed stereolithography-based biocompatible materials for dental applications, including material and quality-assurance considerations."
     },
     {
       "id": "projects-31",
       "page": "projects",
-      "selector": ".cards .card:nth-child(5) .tag",
-      "label": "Card 5 — category",
+      "selector": ".cards .card:nth-child(4) .tag",
+      "label": "Card 4 — category",
       "value": "Wood surfaces · VIVACE"
     },
     {
       "id": "projects-32",
       "page": "projects",
-      "selector": ".cards .card:nth-child(5) h3",
-      "label": "Card 5 — title",
+      "selector": ".cards .card:nth-child(4) h3",
+      "label": "Card 4 — title",
       "value": "Surface Characterisation and Quality Assessment of Sawn Wood"
     },
     {
       "id": "projects-33",
       "page": "projects",
-      "selector": ".cards .card:nth-child(5) > p",
-      "label": "Card 5 — description",
+      "selector": ".cards .card:nth-child(4) > p",
+      "label": "Card 4 — description",
       "value": "Developed surface measurement, characterisation and specification methods for sawn wood surfaces in the VINNOVA-funded VIVACE project."
     },
     {
       "id": "projects-40",
       "page": "projects",
-      "selector": ".cards .card:nth-child(6) .tag",
-      "label": "Card 6 — category",
+      "selector": ".cards .card:nth-child(5) .tag",
+      "label": "Card 5 — category",
       "value": "Materials Research · Lead-Free Brass"
     },
     {
       "id": "projects-41",
       "page": "projects",
-      "selector": ".cards .card:nth-child(6) h3",
-      "label": "Card 6 — title",
+      "selector": ".cards .card:nth-child(5) h3",
+      "label": "Card 5 — title",
       "value": "Surface Integrity of Machined Lead and Lead-Free Brass"
     },
     {
       "id": "projects-42",
       "page": "projects",
-      "selector": ".cards .card:nth-child(6) > p",
-      "label": "Card 6 — description",
+      "selector": ".cards .card:nth-child(5) > p",
+      "label": "Card 5 — description",
       "value": "Part of the Lead Free Brass research project funded by MISTRA (the Swedish Foundation for Strategic Environmental Research) and SIO (Swedish Strategic Innovation Area). The research investigated turned lead brass (CuZn39Pb3) and lead-free brass (CuZn21Si3P), comparing surface topography and subsurface deformation to inform material and machining evaluations."
     },
     {
       "id": "projects-28",
       "page": "projects",
-      "selector": ".cards .card:nth-child(7) .tag",
-      "label": "Card 7 — category",
-      "value": "Computer Vision · Surface Metrology · Research in Progress"
+      "selector": ".cards .card:nth-child(6) .tag",
+      "label": "Card 6 — category",
+      "value": "Computer Vision · Metrology · Research in Progress"
     },
     {
       "id": "projects-29",
       "page": "projects",
-      "selector": ".cards .card:nth-child(7) h3",
-      "label": "Card 7 — title",
-      "value": "Automated Foam Surface Morphology Assessment"
+      "selector": ".cards .card:nth-child(6) h3",
+      "label": "Card 6 — title",
+      "value": "Advanced Surface Inspection Using Computer Vision and Metrology"
     },
     {
       "id": "projects-30",
       "page": "projects",
-      "selector": ".cards .card:nth-child(7) > p",
-      "label": "Card 7 — description",
-      "value": "Developing a computer-vision workflow to characterise pore morphology from foam surface images. The approach combines automated image processing with quantitative measurements of pore size, shape and distribution to support reproducible material comparisons and quality assessment. Research manuscript in preparation; findings are not yet published."
+      "selector": ".cards .card:nth-child(6) > p",
+      "label": "Card 6 — description",
+      "value": "Research into computer-vision-assisted surface inspection for manufacturing quality assessment. The work explores automated image analysis and quantitative evaluation methods to support consistent, reproducible measurements, comparative material assessment, and more efficient inspection workflows. Manuscript under submission; findings are not yet published."
     },
     {
       "id": "tools-46",
