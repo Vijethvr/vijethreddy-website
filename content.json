@@ -1,0 +1,411 @@
+{
+  "version": 1,
+  "fields": [
+    {
+      "id": "home-1",
+      "page": "home",
+      "selector": "h1",
+      "label": "Main heading",
+      "value": "Vijeth Venkataram Reddy"
+    },
+    {
+      "id": "home-2",
+      "page": "home",
+      "selector": ".subtitle",
+      "label": "Professional tagline",
+      "value": "Quality & Process Improvement Engineer | Manufacturing & Metrology"
+    },
+    {
+      "id": "home-3",
+      "page": "home",
+      "selector": ".lead",
+      "label": "Introduction",
+      "value": "PhD-qualified quality and manufacturing engineer with over 10 years of experience bridging manufacturing research and industrial applications. I specialise in surface metrology, quality engineering, measurement methods, and process optimisation—translating technical data into practical solutions for manufacturing challenges."
+    },
+    {
+      "id": "home-4",
+      "page": "home",
+      "selector": ".section > h2",
+      "label": "Expertise section heading",
+      "value": "Areas of expertise"
+    },
+    {
+      "id": "about-5",
+      "page": "about",
+      "selector": "h1",
+      "label": "Page heading",
+      "value": "About Me"
+    },
+    {
+      "id": "about-6",
+      "page": "about",
+      "selector": "p.lead",
+      "label": "Introduction",
+      "value": "I am a PhD-qualified quality and manufacturing engineer with experience spanning research, industrial collaboration, surface metrology, manufacturing processes, and quality assessment."
+    },
+    {
+      "id": "projects-7",
+      "page": "projects",
+      "selector": "h1",
+      "label": "Page heading",
+      "value": "Engineering & Research Projects"
+    },
+    {
+      "id": "projects-8",
+      "page": "projects",
+      "selector": "p.lead",
+      "label": "Introduction",
+      "value": "Selected work in metrology, quality assessment, manufacturing processes and industrial research."
+    },
+    {
+      "id": "tools-9",
+      "page": "tools",
+      "selector": "h1",
+      "label": "Page heading",
+      "value": "Engineering Tools & Applications"
+    },
+    {
+      "id": "tools-10",
+      "page": "tools",
+      "selector": "p.lead",
+      "label": "Introduction",
+      "value": "Engineering-focused digital tools in development to support surface metrology, measurement data analysis, quality assessment and auditing workflows."
+    },
+    {
+      "id": "blog-11",
+      "page": "blog",
+      "selector": "h1",
+      "label": "Page heading",
+      "value": "Insights & Perspectives"
+    },
+    {
+      "id": "blog-12",
+      "page": "blog",
+      "selector": "p.lead",
+      "label": "Introduction",
+      "value": "Ideas and perspectives on engineering, manufacturing, quality and surface metrology."
+    },
+    {
+      "id": "about-13",
+      "page": "about",
+      "selector": ".narrow > h2:nth-of-type(1) + p",
+      "label": "Professional journey — paragraph 1",
+      "value": "My work has included developing inspection and measurement methods for automotive polymer components, biomedical-related manufacturing, sawn wood surfaces, additive manufacturing, and engineering materials."
+    },
+    {
+      "id": "about-14",
+      "page": "about",
+      "selector": ".narrow > h2:nth-of-type(1) + p + p",
+      "label": "Professional journey — paragraph 2",
+      "value": "At Halmstad University, I worked as a Post-Doctoral Researcher (March 2024–March 2026) and Research Engineer (July 2023–January 2024). Earlier, I pursued doctoral research in Manufacturing Technology at Chalmers University of Technology and Halmstad University (2018–2023)."
+    },
+    {
+      "id": "about-15",
+      "page": "about",
+      "selector": ".narrow > h2:nth-of-type(3) + p",
+      "label": "Technical expertise",
+      "value": "Quality engineering (MSA, SPC, DOE, RCA, verification and validation); surface metrology and characterisation; injection moulding and additive manufacturing; measurement instrumentation; Python, MATLAB and engineering data analysis."
+    },
+    {
+      "id": "about-16",
+      "page": "about",
+      "selector": ".narrow > h2:nth-of-type(6) + p",
+      "label": "Contact invitation",
+      "value": "Interested in engineering collaboration or discussing surface metrology and manufacturing quality?"
+    },
+    {
+      "id": "home-17",
+      "page": "home",
+      "selector": ".cards .card:nth-child(1) h3",
+      "label": "Card 1 — title",
+      "value": "Surface Metrology"
+    },
+    {
+      "id": "home-18",
+      "page": "home",
+      "selector": ".cards .card:nth-child(1) > p",
+      "label": "Card 1 — description",
+      "value": "Surface texture characterisation, measurement methods, and traceable inspection workflows."
+    },
+    {
+      "id": "home-19",
+      "page": "home",
+      "selector": ".cards .card:nth-child(2) h3",
+      "label": "Card 2 — title",
+      "value": "Quality Engineering"
+    },
+    {
+      "id": "home-20",
+      "page": "home",
+      "selector": ".cards .card:nth-child(2) > p",
+      "label": "Card 2 — description",
+      "value": "Measurement system analysis, process improvement, verification and validation."
+    },
+    {
+      "id": "home-21",
+      "page": "home",
+      "selector": ".cards .card:nth-child(3) h3",
+      "label": "Card 3 — title",
+      "value": "Manufacturing Research"
+    },
+    {
+      "id": "home-22",
+      "page": "home",
+      "selector": ".cards .card:nth-child(3) > p",
+      "label": "Card 3 — description",
+      "value": "Injection moulding, additive manufacturing, material evaluation and optimisation."
+    },
+    {
+      "id": "home-23",
+      "page": "home",
+      "selector": ".cards .card:nth-child(4) h3",
+      "label": "Card 4 — title",
+      "value": "Engineering Tools"
+    },
+    {
+      "id": "home-24",
+      "page": "home",
+      "selector": ".cards .card:nth-child(4) > p",
+      "label": "Card 4 — description",
+      "value": "Developing digital tools for surface analytics, metrology diagnostics, and quality workflows."
+    },
+    {
+      "id": "projects-25",
+      "page": "projects",
+      "selector": ".cards .card:nth-child(1) .tag",
+      "label": "Card 1 — category",
+      "value": "Automotive · Injection Moulding Research"
+    },
+    {
+      "id": "projects-26",
+      "page": "projects",
+      "selector": ".cards .card:nth-child(1) h3",
+      "label": "Card 1 — title",
+      "value": "Surface Quality Assessment of Textured Automotive Polymer Components"
+    },
+    {
+      "id": "projects-27",
+      "page": "projects",
+      "selector": ".cards .card:nth-child(1) > p",
+      "label": "Card 1 — description",
+      "value": "Research on surface texture characterisation and quality assessment of injection-moulded automotive interior polymers, including PC-ABS, ABS and PP. Work investigated surface measurement methods and the effects of manufacturing parameters. Related funding and research programmes include Vinnova, FFI, Produktion2030, Robust Injection Moulding of Automotive Components with Low Environmental Impact (2018-02689), and Robust Texture Design for Circular Polymers — ROPY (2022-02459). Follow-on ROPY2 work is part of the broader automotive research experience."
+    },
+    {
+      "id": "projects-28",
+      "page": "projects",
+      "selector": ".cards .card:nth-child(2) .tag",
+      "label": "Card 2 — category",
+      "value": "Inspection · Metrology"
+    },
+    {
+      "id": "projects-29",
+      "page": "projects",
+      "selector": ".cards .card:nth-child(2) h3",
+      "label": "Card 2 — title",
+      "value": "Advanced Surface Inspection Using Computer Vision and Metrology"
+    },
+    {
+      "id": "projects-30",
+      "page": "projects",
+      "selector": ".cards .card:nth-child(2) > p",
+      "label": "Card 2 — description",
+      "value": "Developed inspection methodologies combining computer vision with surface metrology for more consistent evaluation of surface integrity in biomedical-related manufacturing."
+    },
+    {
+      "id": "projects-31",
+      "page": "projects",
+      "selector": ".cards .card:nth-child(3) .tag",
+      "label": "Card 3 — category",
+      "value": "Wood surfaces · VIVACE"
+    },
+    {
+      "id": "projects-32",
+      "page": "projects",
+      "selector": ".cards .card:nth-child(3) h3",
+      "label": "Card 3 — title",
+      "value": "Surface Characterisation and Quality Assessment of Sawn Wood"
+    },
+    {
+      "id": "projects-33",
+      "page": "projects",
+      "selector": ".cards .card:nth-child(3) > p",
+      "label": "Card 3 — description",
+      "value": "Developed surface measurement, characterisation and specification methods for sawn wood surfaces in the VINNOVA-funded VIVACE project."
+    },
+    {
+      "id": "projects-34",
+      "page": "projects",
+      "selector": ".cards .card:nth-child(4) .tag",
+      "label": "Card 4 — category",
+      "value": "Additive Manufacturing · DiSAM"
+    },
+    {
+      "id": "projects-35",
+      "page": "projects",
+      "selector": ".cards .card:nth-child(4) h3",
+      "label": "Card 4 — title",
+      "value": "Surface Characterisation and Post-Processing in Additive Manufacturing"
+    },
+    {
+      "id": "projects-36",
+      "page": "projects",
+      "selector": ".cards .card:nth-child(4) > p",
+      "label": "Card 4 — description",
+      "value": "Research on surface texture, manufacturing parameters and post-processing of additively manufactured components. The FDM surface texture study acknowledged support from VINNOVA and Produktion2030 through DiSAM, as well as the Knowledge Foundation's Business Model Innovation project."
+    },
+    {
+      "id": "projects-37",
+      "page": "projects",
+      "selector": ".cards .card:nth-child(5) .tag",
+      "label": "Card 5 — category",
+      "value": "Dental Applications · Research Collaboration"
+    },
+    {
+      "id": "projects-38",
+      "page": "projects",
+      "selector": ".cards .card:nth-child(5) h3",
+      "label": "Card 5 — title",
+      "value": "Quality Assurance of 3D-Printed Biocompatible Materials for Dental Applications"
+    },
+    {
+      "id": "projects-39",
+      "page": "projects",
+      "selector": ".cards .card:nth-child(5) > p",
+      "label": "Card 5 — description",
+      "value": "A joint research effort between Halmstad University researchers and maxillofacial doctors at Region Halland hospital in Halmstad. The work assessed stereolithography-based biocompatible materials for dental applications, including material and quality-assurance considerations."
+    },
+    {
+      "id": "projects-40",
+      "page": "projects",
+      "selector": ".cards .card:nth-child(6) .tag",
+      "label": "Card 6 — category",
+      "value": "Materials Research · Lead-Free Brass"
+    },
+    {
+      "id": "projects-41",
+      "page": "projects",
+      "selector": ".cards .card:nth-child(6) h3",
+      "label": "Card 6 — title",
+      "value": "Surface Integrity of Machined Lead and Lead-Free Brass"
+    },
+    {
+      "id": "projects-42",
+      "page": "projects",
+      "selector": ".cards .card:nth-child(6) > p",
+      "label": "Card 6 — description",
+      "value": "Part of the Lead Free Brass research project funded by MISTRA (the Swedish Foundation for Strategic Environmental Research) and SIO (Swedish Strategic Innovation Area). The research investigated turned lead brass (CuZn39Pb3) and lead-free brass (CuZn21Si3P), comparing surface topography and subsurface deformation to inform material and machining evaluations."
+    },
+    {
+      "id": "projects-43",
+      "page": "projects",
+      "selector": ".cards .card:nth-child(7) .tag",
+      "label": "Card 7 — category",
+      "value": "Doctoral research"
+    },
+    {
+      "id": "projects-44",
+      "page": "projects",
+      "selector": ".cards .card:nth-child(7) h3",
+      "label": "Card 7 — title",
+      "value": "Characterisation and Optimisation of Engineering Surfaces"
+    },
+    {
+      "id": "projects-45",
+      "page": "projects",
+      "selector": ".cards .card:nth-child(7) > p",
+      "label": "Card 7 — description",
+      "value": "Applied measurement methods, experimental design and statistical approaches to evaluate and optimise engineering surfaces across manufacturing contexts."
+    },
+    {
+      "id": "tools-46",
+      "page": "tools",
+      "selector": ".cards .card:nth-child(1) .tag",
+      "label": "Card 1 — category",
+      "value": "In Development · Metrology Diagnostics"
+    },
+    {
+      "id": "tools-47",
+      "page": "tools",
+      "selector": ".cards .card:nth-child(1) h3",
+      "label": "Card 1 — title",
+      "value": "Surface Audit"
+    },
+    {
+      "id": "tools-48",
+      "page": "tools",
+      "selector": ".cards .card:nth-child(1) > p",
+      "label": "Card 1 — description",
+      "value": "A specialised metrology diagnostic service and analytical framework for evaluating surface measurement and data-processing procedures. Designed to improve the reliability, traceability, and efficiency of surface metrology workflows."
+    },
+    {
+      "id": "tools-49",
+      "page": "tools",
+      "selector": ".cards .card:nth-child(2) .tag",
+      "label": "Card 2 — category",
+      "value": "In Development · Surface Analytics"
+    },
+    {
+      "id": "tools-50",
+      "page": "tools",
+      "selector": ".cards .card:nth-child(2) h3",
+      "label": "Card 2 — title",
+      "value": "SURF-AI — Surface Analytics and Intelligence"
+    },
+    {
+      "id": "tools-51",
+      "page": "tools",
+      "selector": ".cards .card:nth-child(2) > p",
+      "label": "Card 2 — description",
+      "value": "A modular engineering analytics and decision-support platform designed to make complex surface metrology data interpretable and actionable for manufacturing, quality engineering, and research."
+    },
+    {
+      "id": "about-52",
+      "page": "about",
+      "selector": ".narrow .pub:nth-of-type(1) a",
+      "label": "Publication 1 — linked title",
+      "value": "Characterisation and analysis of the surface texture of injection-moulded automotive interior ABS and PP components"
+    },
+    {
+      "id": "about-53",
+      "page": "about",
+      "selector": ".narrow .pub:nth-of-type(2) a",
+      "label": "Publication 2 — linked title",
+      "value": "Surface characterization and analysis of textured injection moulded PC-ABS automotive interior components"
+    },
+    {
+      "id": "about-54",
+      "page": "about",
+      "selector": ".narrow .pub:nth-of-type(3) a",
+      "label": "Publication 3 — linked title",
+      "value": "Study on surface texture of fused deposition modeling"
+    },
+    {
+      "id": "about-55",
+      "page": "about",
+      "selector": ".narrow .pub:nth-of-type(4) a",
+      "label": "Publication 4 — linked title",
+      "value": "Surface topography characterization of brass alloys: lead brass (CuZn39Pb3) and lead free brass (CuZn21Si3P)"
+    },
+    {
+      "id": "about-56",
+      "page": "about",
+      "selector": ".narrow .pub:nth-of-type(5) a",
+      "label": "Publication 5 — linked title",
+      "value": "Towards In-Line Measurements of Sawn Wood Surfaces"
+    },
+    {
+      "id": "about-57",
+      "page": "about",
+      "selector": ".narrow .pub:nth-of-type(6) a",
+      "label": "Publication 6 — linked title",
+      "value": "Surface metrology for ensuring perceived quality—a study on injection moulded plastic parts"
+    },
+    {
+      "id": "blog-58",
+      "page": "blog",
+      "selector": ".narrow > .section > p",
+      "label": "Articles status",
+      "value": "Articles are being reviewed and prepared for publication. Please check back later."
+    }
+  ]
+}
