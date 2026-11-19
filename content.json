@@ -20,7 +20,7 @@
       "page": "home",
       "selector": ".lead",
       "label": "Introduction",
-      "value": "PhD-qualified quality and manufacturing engineer with over 10 years of experience bridging manufacturing research and industrial applications. I specialise in surface metrology, quality engineering, measurement methods, and process optimisation—translating technical data into practical solutions for manufacturing challenges."
+      "value": "PhD-qualified Quality and Manufacturing Engineer with over 10 years of experience in surface metrology, quality engineering, and manufacturing process improvement. I combine research expertise with practical engineering approaches to develop reliable measurement methods, optimise processes, and support data-driven quality decisions."
     },
     {
       "id": "home-4",
@@ -41,7 +41,7 @@
       "page": "about",
       "selector": "p.lead",
       "label": "Introduction",
-      "value": "I am a PhD-qualified quality and manufacturing engineer with experience spanning research, industrial collaboration, surface metrology, manufacturing processes, and quality assessment."
+      "value": "My professional experience spans manufacturing research, industrial collaboration, and applied quality engineering, with a particular focus on surface metrology and advanced manufacturing processes. Through research and industry-oriented projects, I have developed measurement and inspection methodologies, investigated process–surface relationships, and contributed to quality assessment strategies across automotive, polymer, additive manufacturing, and other engineering applications. My approach combines experimental methods, statistical analysis, and practical engineering insight to address manufacturing challenges and improve the reliability of quality evaluation."
     },
     {
       "id": "projects-7",
