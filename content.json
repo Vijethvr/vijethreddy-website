@@ -188,7 +188,7 @@
       "page": "projects",
       "selector": ".cards .card:nth-child(1) > p",
       "label": "Card 1 — description",
-      "value": "Research on surface texture characterisation and quality assessment of injection-moulded automotive interior polymers, including PC-ABS, ABS and PP. Work investigated surface measurement methods and the effects of manufacturing parameters. Related funding and research programmes include Vinnova, FFI, Produktion2030, Robust Injection Moulding of Automotive Components with Low Environmental Impact (2018-02689), and Robust Texture Design for Circular Polymers — ROPY (2022-02459). Follow-on ROPY2 work is part of the broader automotive research experience."
+      "value": "Research on surface texture characterisation and quality assessment of injection-moulded automotive interior polymers. Work investigated surface measurement methods, effects of manufacturing parameters. Related funding include Vinnova backed Robust Injection Moulding of Automotive Components and Robust Texture Design for Circular Polymers- ROPY."
     },
     {
       "id": "projects-28",
